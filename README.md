@@ -13,8 +13,7 @@
 <hr>
 <h3 style="color: rgb(219, 22, 160)">Lenguaje 👨‍💻 & Herramientas 🛠</h3>
 
-<p align="center"> 
-       
+
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="">
 <img src="	https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="">
@@ -26,7 +25,7 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="">
 
-</p>
+
 <br>
 <br>
 
@@ -42,8 +41,8 @@
 <hr>
 <h3 style="color: rgb(219, 22, 160)">¿Hablamos?☕️</h3> 
 
-<a href="https://www.linkedin.com/in/kamila-villablanca" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+<a href="https://www.linkedin.com/in/kamila-villablanca" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 
-<a href="mailto:kamiavillablanca.b@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail kamila"></a>
+<a href="mailto:kamiavillablanca.b@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail kamila"></a>
 
  
