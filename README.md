@@ -1,6 +1,6 @@
 <h2 style="text-align: center;"> Hola, mi nombre es <span style="color: rgb(219, 22, 160)">Kamila Villablanca</span> </h2>
 
-<p align="center"> Apasionada por la tecnología y el autoaprendizaje</p>
+<p align="center"> Me encanta la tecnología y el autoaprendizaje</p>
 <p align="center">
     <img style="width: 200px;" src="himouto.gif" alt="imagen tecleando">
 </p>
@@ -42,8 +42,7 @@
 <hr>
 <h3 style="color: rgb(219, 22, 160)">¿Hablamos?☕️</h3> 
 
-<a href="https://www.linkedin.com/in/kamila-villablanca/" target="_blank"><img src="
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Kamila"></a>
+<a href="https://www.linkedin.com/in/kamila-villablanca" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 
 <a href="mailto:kamiavillablanca.b@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail kamila"></a>
 
