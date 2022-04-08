@@ -1,4 +1,4 @@
-<h2 align="center"> Hola, mi nombre es <span style="color: rgb(219, 22, 160)">Kamila Villablanca</span> </h2>
+<h1 align="center"> Hola, mi nombre es <span style="color: rgb(219, 22, 160)">Kamila Villablanca</span> </h2>
 
 <p align="center"> Me encanta la tecnología y el autoaprendizaje</p>
 <p align="center">
