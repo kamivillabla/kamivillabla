@@ -11,7 +11,7 @@
 💬 Compartamos sobre Javascript, css y las ultimas tendencias en diseño web. <br>
 ⚡ Dato: Todo mi esfuerzo es para darle buena vida a mi gatita 🐱
 <hr>
-<h3 style="color: rgb(219, 22, 160)">Lenguaje 👨‍💻 & Herramientas 🛠</h3>
+<h3 style="color: rgb(219, 22, 160)">Lenguajes 👨‍💻 & Herramientas 🛠</h3>
 
 <p align="left"> 
     
