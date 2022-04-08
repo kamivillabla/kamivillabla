@@ -9,7 +9,7 @@
 👩‍💻 FrontEnd Developer <br>
 🌱 Actualmente estoy aprendiendo NodeJs y React <br>
 💬 Compartamos sobre Javascript, css y las ultimas tendencias en diseño web. <br>
-⚡ Dato: Todo mi esfuerzo es para darle buena vida a mi gata 🐱
+⚡ Dato: Todo mi esfuerzo es para darle buena vida a mi gatita 🐱
 <hr>
 <h3 style="color: rgb(219, 22, 160)">Lenguaje 👨‍💻 & Herramientas 🛠</h3>
 
