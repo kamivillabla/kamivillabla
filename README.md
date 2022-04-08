@@ -1,6 +1,6 @@
 <h1 align="center"> Hola, mi nombre es <span style="color: rgb(219, 22, 160)">Kamila Villablanca</span> ✌ </h2>
-
-<p align="center"> Me encanta la tecnología y el autoaprendizaje</p>
+<!--  
+<p align="center"> Me encanta la tecnología y el autoaprendizaje</p> -->
 <p align="center">
     <img style="width: 250px;" src="himouto.gif" alt="imagen tecleando">
 </p>
