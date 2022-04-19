@@ -7,7 +7,7 @@
 <hr>
 <h3 style="color: rgb(219, 22, 160)"> Sobre mi </h3>
 👩‍💻 FrontEnd Developer <br>
-🤖 Me encuentro trabajando en (Burger Queen)[https://github.com/kamivillabla/SCL019-burger-queen] 
+🤖 Me encuentro trabajando en [Burger Queen](https://github.com/kamivillabla/SCL019-burger-queen) 
 🌱 Actualmente estoy aprendiendo NodeJs y React <br>
 💬 Compartamos sobre Javascript, css y las ultimas tendencias en diseño web. <br>
 ⚡ Dato: Me esfuerzo para darle buena vida a mi gatita 🐱
@@ -52,6 +52,4 @@
 <a href="mailto:kamiavillablanca.b@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail kamila"></a>
 
  
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamivillabla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+
