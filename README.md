@@ -7,7 +7,7 @@
 <hr>
 <h3 style="color: rgb(219, 22, 160)"> Sobre mi </h3>
 👩‍💻 FrontEnd Developer <br>
-🤖 Me encuentro trabajando en <a href="https://github.com/kamivillabla/SCL019-burger-queen">Burger Queen</a>   <br>
+🤖 Me encuentro trabajando en el proyecto: <a href="https://github.com/kamivillabla/SCL019-burger-queen">Burger Queen</a>   <br>
 🌱 Actualmente estoy aprendiendo NodeJs y React <br>
 💬 Compartamos sobre Javascript, css y las ultimas tendencias en diseño web. <br>
 ⚡ Dato: Me esfuerzo para darle buena vida a mi gatita 🐱
