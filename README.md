@@ -10,7 +10,7 @@
 🤖 Me encuentro trabajando en el proyecto: <a href="https://github.com/kamivillabla/SCL019-burger-queen">Burger Queen</a>   <br>
 🌱 Actualmente estoy aprendiendo NodeJs y React <br>
 💬 Compartamos sobre Javascript, css y las ultimas tendencias en diseño web. <br>
-🎲 Hobbies: Mangas, anime, Realidad Virtual. 
+🎲 Hobbies: Mangas, anime, Realidad Virtual. <br>
 ⚡ Dato: Me esfuerzo para darle buena vida a mi gatita 🐱
 
 <hr>
