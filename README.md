@@ -46,9 +46,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamivillabla&theme=jolly" />
 </a>
 
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=kamivillabla&show_icons=true&theme=radical)
-
-
 <hr>
 <h3 style="color: rgb(219, 22, 160)">¿Hablamos?☕️</h3> 
 
