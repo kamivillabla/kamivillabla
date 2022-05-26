@@ -42,10 +42,6 @@
 <br>
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamivillabla&theme=jolly" />
-</a>
-
 <hr>
 <h3 style="color: rgb(219, 22, 160)">¿Hablamos?☕️</h3> 
 
