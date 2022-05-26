@@ -45,7 +45,7 @@
 <hr>
 <h3 style="color: rgb(219, 22, 160)">¿Hablamos?☕️</h3> 
 
-<a href="https://www.linkedin.com/in/kamila-villablanca" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamivillabla&theme=jolly" />
 
 <a href="mailto:kamiavillablanca.b@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail kamila"></a>
 
