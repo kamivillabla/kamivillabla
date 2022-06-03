@@ -38,7 +38,7 @@
 <hr>
 <h3 style="color: rgb(219, 22, 160)">¿Hablamos?☕️</h3> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamivillabla&theme=jolly" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamivillabla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="mailto:kamiavillablanca.b@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail kamila"></a>
 
