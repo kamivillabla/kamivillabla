@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kamivillabla&left_color=green&right_color=purple) 
     
 </h1>
-<h3 align="center">Apasionada por la tecnología y el autoAprendizaje</h3>
+<h3 align="center">Apasionada por la tecnología y el auto aprendizaje</h3>
 <p align="center">
     <img style="width: 250px;" src="himouto.gif" alt="imagen tecleando">
 </p>
