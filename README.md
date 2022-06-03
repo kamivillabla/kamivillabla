@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Kamila!
     
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kamivillabla&left_color=green&right_color=red) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kamivillabla&left_color=green&right_color=purple) 
     
 </h1>
 <h3 align="center">Apasionada por la tecnología y el autoAprendizaje</h3>
