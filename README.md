@@ -11,7 +11,7 @@
  <br>
  
 
-- 🌱 Estoy aprendiendo **ReactJs y Typescript**
+- 🌱 Estoy aprendiendo **Fullstack Java**
 
 - 👨‍💻 Puedes ver mis proyectos en [https://github.com/kamivillabla?tab=repositories](https://github.com/kamivillabla?tab=repositories)
 
