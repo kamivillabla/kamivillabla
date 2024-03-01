@@ -10,7 +10,6 @@
     
  <br>
  
-- 🔭 Actualmente estoy trabajando en [...](...)
 
 - 🌱 Estoy aprendiendo **ReactJs y Typescript**
 
