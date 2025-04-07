@@ -9,20 +9,13 @@
  <br>
  
 
-- 🌱 Estoy aprendiendo **Design UI**
+- 🌱 Estoy aprendiendo **Godot** para creación de videojuegos.
 
 - 👨‍💻 Puedes ver mis proyectos en [https://github.com/kamivillabla?tab=repositories](https://github.com/kamivillabla?tab=repositories)
 
 - 🎲 Hobbies: **Fanatica de los Mangas, anime y realidad Virtual.**
 
 - ⚡ Dato: **Me esfuerzo para darle buena vida a mi gatita.** 🐱
-
-<hr>
-
-<h3 style="color: rgb(219, 22, 16) align="left">Conectemos en:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kamila-villablanca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamila-villablanca/" height="30" width="40" /></a>
-</p>
 
 <hr>
 
